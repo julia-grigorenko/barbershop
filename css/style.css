@@ -1,0 +1,62 @@
+body {
+  color: #000000;
+  font-size: 14px;
+  line-height: 24px;
+}
+h1 {
+
+}
+h2 {
+
+}
+h3 {
+
+}
+.visually-hidden {
+  display: none;
+}
+.feature-item-header {
+  color: #f7f4f1;
+  font-size: 30px;
+  line-height: 42px;
+}
+.news-header {
+  color: #000000;
+  font-size: 30px;
+  line-height: 42px;
+}
+.gallery-header {
+  color: #000000;
+  font-size: 30px;
+  line-height: 42px;
+}
+.contacts-header {
+  color: #000000;
+  font-size: 30px;
+  line-height: 42px;
+}
+.appointment-header {
+  color: #000000;
+  font-size: 30px;
+  line-height: 42px;
+}
+.modal-login-header {
+  color: #000000;
+  font-size: 30px;
+  line-height: 1.2;
+}
+.page-title{
+  color: #000000;
+  font-size: 30px;
+  line-height: 42px;
+}
+.product-include {
+  color: #000000;
+  font-size: 24px;
+  line-height: 30px;
+}
+.catalog-item-header {
+  color: #000000;
+  font-size: 14px;
+  line-height: 18px;
+}
