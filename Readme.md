@@ -1,5 +1,5 @@
 # Учебный проект «Барбершоп»        
-https://yulia-grigorenko.github.io/489101-barbershop/
+https://yulia-grigorenko.github.io/barbershop/
 
 html/css basic
 
